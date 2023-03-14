@@ -154,7 +154,7 @@ class Header extends Component<IProps, IState> {
 
     return (
       <div>
-        <img className="logo" alt="ChirpStack" src="/logo.png" />
+        <img className="logo" alt="Technogine" src="/logo.png" />
         <div className="actions">
           <div className="search">
             <AutoComplete
@@ -167,7 +167,7 @@ class Header extends Component<IProps, IState> {
             </AutoComplete>
           </div>
           <div className="help">
-            <a href="https://www.chirpstack.io" target="_blank" rel="noreferrer">
+            <a href="https://www.legaxus.com" target="_blank" rel="noreferrer">
               <Button icon={<QuestionOutlined />} />
             </a>
           </div>
